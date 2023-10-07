@@ -73,4 +73,3 @@ The order DOES matter
 ==Permutation with Some Items Repeated==
 $$ \frac{n!}{n_1! * n_2! * n_3! * ... * n_k!} $$
 where n is the total number of items and $n_1, n_2, ..., n_k$ are the number of TIMES that the individual items appear
-

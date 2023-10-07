@@ -1,0 +1,4 @@
+# How Was Your Day Today?
+## What Went Well?
+
+## What Didn't Go So Well?

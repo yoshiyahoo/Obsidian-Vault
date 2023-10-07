@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/cs/cs4/Intelligent Agents.md",
+                "file": "Life/Journal/Daily Journal/October-2023/07-09-2023.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/cs/cs4/Intelligent Agents.md",
+                "file": "Life/Journal/Daily Journal/October-2023/07-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/cs/cs4/Intelligent Agents.md",
+                "file": "Life/Journal/Daily Journal/October-2023/07-09-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/cs/cs4/Intelligent Agents.md"
+                "file": "Life/Journal/Daily Journal/October-2023/07-09-2023.md"
               }
             }
           }
@@ -149,8 +149,16 @@
   },
   "active": "e491e825ff7a15c0",
   "lastOpenFiles": [
-    "School/cs/cs4/Python Info.md",
+    "Life/Journal/Daily Journal Template.md",
+    "Life/Journal/Daily Journal/October-2023/07-09-2023.md",
     "School/math/stats/Stats_chapter_four.md",
+    "Life/Journal/New Text Document.txt",
+    "Life/Journal/Daily Journal/October-2023",
+    "Life/Journal/Daily Journal",
+    "Life/Journal/New folder",
+    "Life/Journal/October-2023",
+    "School/cs/cs4/Python Info.md",
+    "School/cs/cs4/Intelligent Agents.md",
     "School/anthro/anth1/Science in America - Neil deGrasse Tyson.md",
     "School/anthro/anth1/Dna_3prime_5prime.png",
     "School/anthro/anth1/CRISPER.md",
@@ -181,19 +189,11 @@
     "School/math/stats/Stats_chapter_five.md",
     "School/cs/cs4/Search in Simple Environments.md",
     "School/math/stats/disjoint_events.png",
-    "School/cs/cs4/Intelligent Agents.md",
     "School/math/stats/Stats_chapter_two.md",
     "School/math/stats/Stats_chapter_three.md",
     "School/math/stats/Stats_chapter_one.md",
     "School/cs/cs4/Searching In Complex Environments.md",
     "Life/Journal",
-    "Life/Health",
-    "Life",
-    "New folder",
-    "anthro/anth1/Introduction To Biological Anthropology Chapter 1.md",
-    "School/math/stats",
-    "School/math",
-    "School/eng/eng12",
-    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 5.md"
+    "Life/Health"
   ]
 }
