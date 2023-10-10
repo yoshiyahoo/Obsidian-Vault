@@ -191,7 +191,7 @@
 
 # Informed Graph Algorithms
 * uses domain specific hints about the location of goals
-* hint comes in the form of a heuristic function $h(t)$
+* hint comes in the form of a heuristic function $h(n)$
 * $h(n)$ is the estimated cost of the cheapest path from the state at node $n$ to a goal state
 
 Example graph for all algorithms
@@ -231,7 +231,7 @@ The green number is the total (heuristic + total driving distance from start) & 
 ![](A_star_memory_analysis.png)
 
 * If $h(n)$ is ==admissible== then A* solution is cost optimal
-* $h(n)$ never overestimates the true cost to reach a goal
+* $h(n)$ ==admissible== if never overestimates the true cost to reach a goal
 $$ h(n) <= \sum_{i = 1}^{k+1} c_i $$
 ![](A_star_heuristic_admissible.png)
 * If $h(n)$ is ==consistent==, then A* solution is cost-optimal and we never have to readd a state to the frontier
@@ -247,7 +247,9 @@ $$ h(n) <= \sum_{i = 1}^{k+1} c_i $$
 ### Measuring Heuristic Performance 
 * One way is the ==Effective Branching Factor== b*
 * If A* generates a total of $n$ nodes and the solution is found at depth $d$
+
 $$n + 1 = 1 + b* + (b*)^2 + ... (b*)^d = \sum_{i=0}^d (b*)^i = \frac{1-(b*)^n}{1 - b*}$$
+
 * A well-designed heuristic would have a value of b* close to 1
 
 ### Comparing Heuristic Functions

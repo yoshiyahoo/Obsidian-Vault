@@ -76,15 +76,14 @@
 
 ## How to specify the task the Agent performs (PEAS)
 * Performance measure
-    * Describes the **utility** our Agent is trying to maximize
+	* Describes the **utility** our Agent is trying to maximize
 * Environment
-    * Summarizes where the Agent acts and what affects the Agent
-    * Either the real world or the digital world
-* Actuators 
-    * Method with which the Agent acts on the environment
+	* Summarizes where the Agent acts and what affects the Agent
+	* Either the real world or the digital world
+* Actuators
+	* Method with which the Agent acts on the environment
 * Sensors
-    * Method with which the Agent recieves information from the environment
-![]()
+	* Method with which the Agent receives information from the environment
 
 ## Simple Reflex Agent
 * Chooses actions only on the current percept

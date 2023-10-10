@@ -1,9 +1,9 @@
 #stats 
 # Mean
-* ==**Sample mean**== or $\bar{x}$ of a set of data values $x_i$ is
+* ==Sample mean== or $\bar{x}$ of a set of data values $x_i$ is
 $$\bar{x} = \sum_{i = 1}^n \frac{x_i}{n} = \frac{1}{n}\sum_{i = 1}^n x_i $$
 
-* ==**Population mean**== or $\mu$ of a set of data values $x_i$ is 
+* ==Population mean== or $\mu$ of a set of data values $x_i$ is 
 $$\mu = \sum_{i = 1}^n \frac{x_i}{n} = \frac{1}{n}\sum_{i = 1}^n x_i $$
 
 * In excel, the Average command is the sample mean
@@ -80,16 +80,16 @@ $$\frac{5 * $500,000 + 4 * $1,200,000 + 7 * $800,000}{5 + 4 + 7} = $806,250$$, w
 ![](Calculating_gpa.jpg)
 
 # Finding Variance and Standard Deviation
-* ==**Sample standard deviation**== $(s)$ of a set values $(x_i)$ is how much they *deviate* from the sample mean $\bar{x}$
+* ==Sample standard deviation== $(s)$ of a set values $(x_i)$ is how much they *deviate* from the sample mean $\bar{x}$
 $$s = \sqrt{\sum_{i=1}^n \frac{(x_i - \bar{x})^2}{n - 1}}$$
 
-* The ==**Sample Variance**==
+* The ==Sample Variance==
 $$s^2 = \sum_{i=1}^n \frac{(x_i - \bar{x})^2}{n - 1}$$
 
-* The ==**Population standard devation**== $\sigma$ of a set of values $x_i$ & mean $\mu$ with population size $N$
+* The ==Population standard devation== $\sigma$ of a set of values $x_i$ & mean $\mu$ with population size $N$
 $$\sigma = \sqrt{\sum_{i=1}^n \frac{(x_i - \mu)^2}{N}}$$
 
-* The ==**Population Variance**==
+* The ==Population Variance==
 $$\sigma^2 = \sum_{i=1}^n \frac{(x_i - \mu)^2}{N}$$
 
 Ex: Find the standard deviation of s = {5, 6, 7, 2, 1, 3}
@@ -100,7 +100,7 @@ $$s^2 = \frac{(5-4)^2 + (6-4)^2 + (7-4)^2 + (2-4)^2 + (1-4)^2 + (3-4)^2}{6 - 1} 
 * Finally, calculate the Standard Deviation
 $$s = \sqrt{5.6} = 2.366431913$$
 
-==**Chebyshev's Theorem**==
+==Chebyshev's Theorem==
 The proportion of values from a data set that will fall within "k" standard deviations of the mean will be at least $1 - \frac{1}{k^2}$
 where $k > 1$
 * Normal Distribution
@@ -153,7 +153,7 @@ $Q_1$ is the 25th percentile
 $Q_2$ is the 50th percentile
 $Q_3$ is the 75th percentile
 
-* ==**Interquartile**== is $IQR = Q_3 - Q_1$
+* ==Interquartile== is $IQR = Q_3 - Q_1$
 
 ## Deciles
 * Seperated 10% amonst eachother

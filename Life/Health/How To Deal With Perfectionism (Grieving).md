@@ -1,3 +1,4 @@
+#mental_health
 # Grieve
 * Let go of what you could do before
 * The more we look at ourselves in the past, the more paralyzed you feel in the present

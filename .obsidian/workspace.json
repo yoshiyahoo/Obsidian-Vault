@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5adb4438b03a1be3",
+        "id": "54bb054390608a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "e491e825ff7a15c0",
+            "id": "dd84e8999757eedf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Journal/Daily Journal/October-2023/07-09-2023.md",
+                "file": "Life/Journal/Daily Journal/October-2023/08-10-2023.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Journal/Daily Journal/October-2023/07-09-2023.md",
+                "file": "Life/Journal/Daily Journal/October-2023/08-10-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Journal/Daily Journal/October-2023/07-09-2023.md",
+                "file": "Life/Journal/Daily Journal/October-2023/08-10-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Journal/Daily Journal/October-2023/07-09-2023.md"
+                "file": "Life/Journal/Daily Journal/October-2023/08-10-2023.md"
               }
             }
           }
@@ -147,10 +148,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e491e825ff7a15c0",
+  "active": "dd84e8999757eedf",
   "lastOpenFiles": [
+    "Life/Journal/Daily Journal/October-2023/09-10-2023.md",
+    "Life/Journal/Daily Journal/October-2023/10-10-2023.md",
+    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 5.md",
+    "School/math/stats/Stats_chapter_five.md",
+    "School/math/stats/Stats_chapter_six.md",
+    "School/math/stats/NEGZ.pdf",
+    "School/math/stats/POSZ.pdf",
+    "School/math/stats/Stats_chapter_three.md",
+    "School/cs/cs4/Searching In Complex Environments.md",
+    "School/cs/cs4/Search in Simple Environments.md",
+    "Life/Journal/Daily Journal/October-2023/08-10-2023.md",
     "Life/Journal/Daily Journal Template.md",
-    "Life/Journal/Daily Journal/October-2023/07-09-2023.md",
+    "Life/Journal/Daily Journal/October-2023/06-10-2023.md",
+    "Life/Journal/Daily Journal/October-2023/07-10-2023.md",
+    "School/cs/cs4/Intelligent Agents.md",
+    "School/anthro/anth1/Geologic_time_scale.png",
+    "Life/Health/Overcoming Fear.md",
+    "Life/Health/Cultivating Discipline.md",
+    "Life/Health/Living a Happy and Healthy Life.md",
+    "Life/Health/How To Make Better Relationships.md",
+    "Life/Health/How To Ignore Yourself (impulse control).md",
+    "Life/Health/How To Deal With Perfectionism (Grieving).md",
     "School/math/stats/Stats_chapter_four.md",
     "Life/Journal/New Text Document.txt",
     "Life/Journal/Daily Journal/October-2023",
@@ -158,25 +179,13 @@
     "Life/Journal/New folder",
     "Life/Journal/October-2023",
     "School/cs/cs4/Python Info.md",
-    "School/cs/cs4/Intelligent Agents.md",
     "School/anthro/anth1/Science in America - Neil deGrasse Tyson.md",
     "School/anthro/anth1/Dna_3prime_5prime.png",
     "School/anthro/anth1/CRISPER.md",
     "School/eng/eng12/doodles.md",
-    "Life/Health/Living a Happy and Healthy Life.md",
-    "Life/Health/How To Make Better Relationships.md",
-    "Life/Health/How To Ignore Yourself (impulse control).md",
-    "Life/Health/How To Deal With Perfectionism (Grieving).md",
-    "Life/Health/Cultivating Discipline.md",
     "School/study habits/Success as a Student.md",
     "School/study habits",
     "School/New folder",
-    "Life/Journal/Meditation & Experience.md",
-    "School/eng/eng12/Elements of Fiction.md",
-    "School/eng/eng12/Writing Fiction ch 6.md",
-    "School/eng/eng12/Writing Fiction ch 3.md",
-    "Life/Journal/Cool Ideas.md",
-    "School/lpc tutoring/Tutoring Training LPC.md",
     "School/lpc tutoring",
     "School/cs/cs4/2D_arrays.png",
     "School/cs/cs4/Types_In_Python.png",
@@ -185,15 +194,6 @@
     "School/math/stats/Frequency_distribution_table.png",
     "School/math/stats/Calculating_gpa.jpg",
     "School/math/stats/Box_plot.png",
-    "School/math/stats/Events_occuring_same_time.png",
-    "School/math/stats/Stats_chapter_five.md",
-    "School/cs/cs4/Search in Simple Environments.md",
-    "School/math/stats/disjoint_events.png",
-    "School/math/stats/Stats_chapter_two.md",
-    "School/math/stats/Stats_chapter_three.md",
-    "School/math/stats/Stats_chapter_one.md",
-    "School/cs/cs4/Searching In Complex Environments.md",
-    "Life/Journal",
-    "Life/Health"
+    "School/math/stats/Events_occuring_same_time.png"
   ]
 }
