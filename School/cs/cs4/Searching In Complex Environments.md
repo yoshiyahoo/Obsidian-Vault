@@ -116,7 +116,7 @@ Expected Times Random-restart hill climbing is expected to run
 	* The fittest individuals (highest values) produce offspring
 	* These offspring become the next generation of individuals
 
-* The ==mixing number== $/rho$ is the number of parents that come together to form offspring
+* The ==mixing number== $\rho$ is the number of parents that come together to form offspring
 	* When $\rho = 0$, we have stochastic local beam search
 * The ==selection== process selects the individuals who will become the parents of the next generation
 * The ==recombination== (not the biology term) procedure forms the offspring
