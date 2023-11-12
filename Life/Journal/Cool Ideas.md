@@ -11,9 +11,9 @@
 | this | is | a | table |
 | :--: | :--: | :--: | :--: |
 | 1 | 2 | 3 | 4 |
-```rust
-fn main() {
-	println!("Hello World")
+```c++
+int main() {
+	std::cout << "Hello World\n";
 }
 ```
 
