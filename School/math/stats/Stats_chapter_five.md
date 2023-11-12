@@ -1,3 +1,5 @@
+#stats 
+
 ==Probability Distribution==: A table which contains a random variable "X", which represents numbers along with their corresponding probabilities "P(X)". The sum of all these probabilities must be 1.
 
 ### Formulas for probability distributions
@@ -26,9 +28,9 @@ $\mu = E(X) = \sum_{}^{}{X * P(X)}$
 $$p(x) = \frac{n!}{(n-x)! * x!} * p^x * q^{n - x}$$
 where n is the number of trials, x are the number of successes, p is the probability of success, and q is the probability of failure where $q = 1 - p$
 
-use binompdf (binomial probability) in calculator to calculate exact values 
+use `binompdf(# trails, probability, # successes)` (binomial probability) in calculator to calculate exact values 
 
-use binomcdf (binomial cumulative probability) in calculator to calculate less than or equal to x successes in n trials
+use `binomcdf(# trails, probability, #successes)` (binomial cumulative probability) in calculator to calculate less than or equal to x successes in n trials
 
 ### Formulas for binomial experiment
 1. Mean: $\mu = n * p$
