@@ -4,5 +4,6 @@
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "baseFontSize": 25
+  "baseFontSize": 30,
+  "theme": "obsidian"
 }

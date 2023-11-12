@@ -1,6 +1,6 @@
 {
-  "format": "DD-MM-YYYY",
+  "format": "ddd, Do-MMM-YYYY",
   "folder": "Life/Journal/Daily Journal/October-2023",
   "template": "Life/Journal/Daily Journal Template",
-  "autorun": true
+  "autorun": false
 }

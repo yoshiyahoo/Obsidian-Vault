@@ -1,8 +1,12 @@
 {
   "showLineNumber": true,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "livePreview": true,
   "showInlineTitle": false,
   "vimMode": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "rightToLeft": false
 }

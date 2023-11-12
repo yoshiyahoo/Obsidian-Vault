@@ -8,18 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd84e8999757eedf",
+            "id": "33d1b8ec96019e37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Journal/Daily Journal/October-2023/10-10-2023.md",
+                "file": "Life/Journal/Documenting Dreams.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#daily_journal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Journal/Daily Journal/October-2023/10-10-2023.md",
+                "file": "Life/Journal/Documenting Dreams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Journal/Daily Journal/October-2023/10-10-2023.md",
+                "file": "Life/Journal/Documenting Dreams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Journal/Daily Journal/October-2023/10-10-2023.md"
+                "file": "Life/Journal/Documenting Dreams.md"
               }
             }
           }
@@ -148,54 +149,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd84e8999757eedf",
+  "active": "33d1b8ec96019e37",
   "lastOpenFiles": [
-    "School/cs/cs4/Search in Simple Environments.md",
-    "School/cs/cs4/Searching In Complex Environments.md",
-    "Life/Journal/Daily Journal/October-2023/10-10-2023.md",
-    "School/math/stats/Stats_chapter_six.md",
-    "Life/Journal/Daily Journal Template.md",
+    "School/plan/Spring_2024_Schedule_Plan.md",
+    "Life/Journal/Documenting Dreams.md",
+    "School/cs/cs4/Adversarial Search In Games.md",
+    "School/eng/eng12/doodles.md",
+    "School/cs/cs4/Heuristic_alpha_beta_pruning_search_definiton.png.md",
+    "Life/Journal/Daily Journal/05-11-2023.md",
     "School/lpc tutoring/Tutoring Training LPC.md",
+    "School/math/stats/Stats_chapter_six.md",
+    "School/cs/cs4/Intelligent Agents.md",
+    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 9.md",
+    "School/cs/cs4/Logic.md",
+    "School/cs/cs4/Logical_equivalences_first_order_logic.png",
+    "School/cs/cs4/First_order_logic_syntax.png",
+    "School/math/stats/Stats_chapter_seven.md",
+    "School/math/stats/Stats_chapter_eight.md",
+    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 8.md",
+    "School/cs/cs4/WalkSAT.png",
+    "School/cs/cs4/PL_Resolution.png",
+    "School/cs/cs4/Converting_statements_to_cnf.png",
+    "School/cs/cs4/Inference_rules.png",
+    "Life/Journal/Daily Journal/October-2023/17-10-2023.md",
+    "Life/Journal/Daily Journal/October-2023/18-10-2023.md",
+    "Life/Journal/Daily Journal/October-2023/07-10-2023.md",
+    "Life/Journal/Daily Journal/October-2023/28-10-2023.md",
+    "Life/Journal/Daily Journal/October-2023/06-10-2023.md",
+    "Life/Journal/Daily Journal/October-2023/15-10-2023.md",
+    "Life/Journal/Daily Journal/October-2023/13-10-2023.md",
+    "Life/Journal/Daily Journal Template.md",
+    "Life/Journal/Meditation & Experience.md",
+    "Life/Journal/Cool Ideas.md",
+    "Life/Journal/Daily Journal/October-2023/31-10-2023.md",
+    "School/plan",
+    "Life/Journal/Daily Journal/October-2023/04-11-2023.md",
+    "School/math/stats/Opposites_of_inequalities.png",
+    "School/math/stats/Suggested_formulas_to_use.png",
+    "School/math/stats/Suggested_distributions_to_use.png",
+    "School/stats",
+    "School/cs/cs4/TT_check_all.png",
+    "School/math/stats/CHISQE.pdf",
+    "School/math/stats/TDIST.pdf",
+    "stats",
+    "School/anth/anth1",
+    "School/anth",
     "Untitled.canvas",
-    "Life/Journal/Daily Journal/October-2023/09-10-2023.md",
-    "Life/Journal/Daily Journal/October-2023/08-10-2023.md",
-    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 5.md",
-    "School/math/stats/Stats_chapter_five.md",
     "School/math/stats/NEGZ.pdf",
     "School/math/stats/POSZ.pdf",
-    "School/math/stats/Stats_chapter_three.md",
-    "Life/Journal/Daily Journal/October-2023/06-10-2023.md",
-    "Life/Journal/Daily Journal/October-2023/07-10-2023.md",
-    "School/cs/cs4/Intelligent Agents.md",
-    "School/anthro/anth1/Geologic_time_scale.png",
-    "Life/Health/Overcoming Fear.md",
-    "Life/Health/Cultivating Discipline.md",
-    "Life/Health/Living a Happy and Healthy Life.md",
-    "Life/Health/How To Make Better Relationships.md",
-    "Life/Health/How To Ignore Yourself (impulse control).md",
-    "Life/Health/How To Deal With Perfectionism (Grieving).md",
-    "School/math/stats/Stats_chapter_four.md",
-    "Life/Journal/New Text Document.txt",
-    "Life/Journal/Daily Journal/October-2023",
-    "Life/Journal/Daily Journal",
-    "Life/Journal/New folder",
-    "Life/Journal/October-2023",
-    "School/cs/cs4/Python Info.md",
-    "School/anthro/anth1/Science in America - Neil deGrasse Tyson.md",
-    "School/anthro/anth1/Dna_3prime_5prime.png",
-    "School/anthro/anth1/CRISPER.md",
-    "School/eng/eng12/doodles.md",
-    "School/study habits/Success as a Student.md",
-    "School/study habits",
-    "School/New folder",
-    "School/lpc tutoring",
-    "School/cs/cs4/2D_arrays.png",
-    "School/cs/cs4/Types_In_Python.png",
-    "School/math/stats/frequency_polygon_table.jpg",
-    "School/math/stats/frequency_polygon.jpg",
-    "School/math/stats/Frequency_distribution_table.png",
-    "School/math/stats/Calculating_gpa.jpg",
-    "School/math/stats/Box_plot.png",
-    "School/math/stats/Events_occuring_same_time.png"
+    "Life/Journal/New Text Document.txt"
   ]
 }
