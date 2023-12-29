@@ -1,3 +1,4 @@
+#stats
 # Confidence Interval
 range of values (lower limit to upper limit) used to estimate the "true" value of a **population parameter**
 
@@ -21,6 +22,11 @@ Take INVNORM of that, we get the z score $z_{\alpha/2}$
 
 if $\hat{p}$ & $\hat{q}$ are unknown, assume $\hat{p}$ is 50%
 
+#### Population Standard Deviation Known
+$$ E = z_{\alpha/2} * \frac{\sigma}{\sqrt{n}} $$
+where $z_{\alpha/2}$ is the critical value (z-score). $\sigma$ is the known population standard deviation, and n is the sample size
+$$ n = (\frac{\sigma * z_{\alpha/2}}{E})^2 $$
+
 ## Constructing A Confidence Interval Estimate About A Population Mean
 ### T-Distribution
 Another symmetric distribution that's more pointy than the normal one
@@ -39,11 +45,6 @@ where $\bar{x}$ is the sample mean given, $E$ is the margin of error where eithe
 $$ E = t_{\alpha/2}* \frac{s}{\sqrt{n}} $$
 where $t_{\alpha/2}$ is the critical value (t-score). "s" is the known standard deviation, and "n" is the sample size
 $$ n = (\frac{s * t_{\alpha/2}}{E})^2 $$
-#### Population Standard Deviation Known
-$$ E = z_{\alpha/2} * \frac{\sigma}{\sqrt{n}} $$
-where $z_{\alpha/2}$ is the critical value (z-score). $\sigma$ is the known population standard deviation, and n is the sample size
-$$ n = (\frac{\sigma * z_{\alpha/2}}{E})^2 $$
-
 ## Constructing A Confidence Interval Estimate About A Population Standard Distribution
 ### Chi- Square Distribution
 Use the Chi - Square $\chi^2$ distribution when the sample standard deviation "s" is known

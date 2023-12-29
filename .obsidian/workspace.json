@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54bb054390608a8f",
+        "id": "1f278d9df6348b66",
         "type": "tabs",
         "children": [
           {
-            "id": "33d1b8ec96019e37",
+            "id": "4dff3aa4727fc6b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Journal/Documenting Dreams.md",
+                "file": "Life/Health/Cognitive Reframing Examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Journal/Documenting Dreams.md",
+                "file": "Life/Health/Cognitive Reframing Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Journal/Documenting Dreams.md",
+                "file": "Life/Health/Cognitive Reframing Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Journal/Documenting Dreams.md"
+                "file": "Life/Health/Cognitive Reframing Examples.md"
               }
             }
           }
@@ -149,54 +148,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33d1b8ec96019e37",
+  "active": "4dff3aa4727fc6b7",
   "lastOpenFiles": [
-    "School/plan/Spring_2024_Schedule_Plan.md",
-    "Life/Journal/Documenting Dreams.md",
+    "School/math/stats/Frequency Distribution Tables & Plots.md",
+    "Life/Health/Cognitive Reframing Examples.md",
+    "School/math/stats/Confidence Intervals.md",
+    "School/math/stats/Stats_chapter_one.md",
+    "School/math/stats/Chi-Square And Analysis Of Variance.md",
+    "School/math/stats/Correlation and Regression.md",
+    "School/math/stats/Hypothesis Testing.md",
+    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 14.md",
     "School/cs/cs4/Adversarial Search In Games.md",
-    "School/eng/eng12/doodles.md",
-    "School/cs/cs4/Heuristic_alpha_beta_pruning_search_definiton.png.md",
-    "Life/Journal/Daily Journal/05-11-2023.md",
-    "School/lpc tutoring/Tutoring Training LPC.md",
-    "School/math/stats/Stats_chapter_six.md",
-    "School/cs/cs4/Intelligent Agents.md",
-    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 9.md",
+    "School/cs/cs4/Probabilistic Reasoning.md",
     "School/cs/cs4/Logic.md",
-    "School/cs/cs4/Logical_equivalences_first_order_logic.png",
-    "School/cs/cs4/First_order_logic_syntax.png",
-    "School/math/stats/Stats_chapter_seven.md",
-    "School/math/stats/Stats_chapter_eight.md",
+    "School/math/stats/Regression_line_equation.png",
+    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 13.md",
+    "School/anthro/anth1/Cultural_biological_environmental_triangle.png",
+    "School/anthro/anth1/Cultural_biological_environment_triangle.png",
+    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 12.md",
+    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 11.md",
+    "School/math/stats/Linear_correlation.png",
+    "School/eng/eng12/doodles.md",
+    "this is a new note.md",
+    "School/cs/cs4/How_good_likelihood_weighting_is.png",
+    "School/cs/cs4/probabilistic_reasoning_sampling_summary.png",
+    "School/cs/cs4/Variable_elimination_algorithm_two.png",
+    "School/cs/cs4/Variable_elimination_algorithm.png",
+    "School/cs/cs4/awesome_formula.png",
+    "School/cs/cs4/awsome_formula.png",
+    "School/math/stats/More Hypothesis Testing.md",
+    "School/math/stats/Basic Probability.md",
+    "School/math/stats/Normal Distribution.md",
+    "School/math/stats/Stats_chapter_three.md",
+    "School/math/stats/Probability Distribution.md",
+    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 10.md",
     "School/anthro/anth1/Introduction to Biological Anthropology Chapter 8.md",
-    "School/cs/cs4/WalkSAT.png",
-    "School/cs/cs4/PL_Resolution.png",
-    "School/cs/cs4/Converting_statements_to_cnf.png",
-    "School/cs/cs4/Inference_rules.png",
-    "Life/Journal/Daily Journal/October-2023/17-10-2023.md",
-    "Life/Journal/Daily Journal/October-2023/18-10-2023.md",
-    "Life/Journal/Daily Journal/October-2023/07-10-2023.md",
-    "Life/Journal/Daily Journal/October-2023/28-10-2023.md",
-    "Life/Journal/Daily Journal/October-2023/06-10-2023.md",
-    "Life/Journal/Daily Journal/October-2023/15-10-2023.md",
-    "Life/Journal/Daily Journal/October-2023/13-10-2023.md",
-    "Life/Journal/Daily Journal Template.md",
-    "Life/Journal/Meditation & Experience.md",
-    "Life/Journal/Cool Ideas.md",
-    "Life/Journal/Daily Journal/October-2023/31-10-2023.md",
+    "School/anthro/anth1/Introduction to Biological Anthropology Chapter 9.md",
+    "School/math/stats/doodle sheet.md",
+    "SChool/anthro/anth1/Introduction to Biological Anthropology Chapter 10.md",
+    "SChool/anthro/anth1",
+    "SChool/anthro",
     "School/plan",
-    "Life/Journal/Daily Journal/October-2023/04-11-2023.md",
-    "School/math/stats/Opposites_of_inequalities.png",
-    "School/math/stats/Suggested_formulas_to_use.png",
-    "School/math/stats/Suggested_distributions_to_use.png",
     "School/stats",
-    "School/cs/cs4/TT_check_all.png",
     "School/math/stats/CHISQE.pdf",
     "School/math/stats/TDIST.pdf",
     "stats",
     "School/anth/anth1",
     "School/anth",
     "Untitled.canvas",
-    "School/math/stats/NEGZ.pdf",
-    "School/math/stats/POSZ.pdf",
-    "Life/Journal/New Text Document.txt"
+    "School/math/stats/NEGZ.pdf"
   ]
 }

@@ -85,7 +85,6 @@ The other positions have the minimax values for each player
 ==Agents only care about their own score==
 Minimax values computed from the bottom to the top of the tree
 
-
 # Alpha-Beta Pruning
 \# of game states is exponential in the depth of the game tree, we can't get rid of that completely
 it's possible to cut the search down by ignoring unnecessary game states
@@ -122,6 +121,7 @@ In general, there are two categories of strategies that can be employed
 #### Type A, Heuristic Alpha-Beta Search
 Cut off the search early by applying heuristic function $\text{EVAL}$ to the positions
 $d$ is for the depth
+Replace the $\text{IS-TERMINAL}(s,d)$ with $\text{IS-CUTOFF}(s,d)$
 ![](Heuristic_alpha_beta_pruning_search_definition.png)
 ##### Eval Functions
 For terminal states, $\text{EVAL}(s, p) = \text{UTILITY}(s, p)$
@@ -146,7 +146,6 @@ Two major ones,
 ![](Alpha_beta_pruning_search.png)
 ![](Alpha_beta_pruning_max_value.png)
 ![](Alpha_beta_pruning_min_value.png)
-
 
 # Monte Carlo Tree Search
 Improves on heuristic alpha beta pruning by not using a heuristic

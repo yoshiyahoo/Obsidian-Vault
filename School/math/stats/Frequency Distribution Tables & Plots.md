@@ -4,20 +4,20 @@
 ![](frequency_distribution_table.png)
 
 ## Terms
-* The ==**Class**== is a range of numbers, we see that on the left
-* The ==**Lower Class limits**== are on the left side of the range
-* The ==**Upper Class limits**== are on the right side of the range
+* The **Class** is a range of numbers, we see that on the left
+* The **Lower Class limits** are on the left side of the range
+* The **Upper Class limits** are on the right side of the range
 
-* The ==**Class Midpoint**== of a class is the average of the lower and upper limit
+* The **Class Midpoint** of a class is the average of the lower and upper limit
 $$\frac{upper limit + lower limit}{2}$$
 * Ex: $\frac{1+5}{2} = \frac{6}{2} = 3$
 
 
-* ==**Class boundaries**== are the numbers used to separate classes so that there are no gaps in frequency distribution
+* **Class boundaries** are the numbers used to separate classes so that there are no gaps in frequency distribution
 * Finding the class boundary involves
 * Find the **key number**
 $$\frac{\text{current lower class limit} - \text{previous upper class limit}}{2}$$
-* The ==**Class width**== of a class is the lower limit of one class minus the lower limit of another
+* The **Class width** of a class is the lower limit of one class minus the lower limit of another
 
 * The **Frequency** is the number of data points in your sample
 

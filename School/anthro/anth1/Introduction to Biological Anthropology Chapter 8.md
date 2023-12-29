@@ -6,7 +6,7 @@ Gradual transition from trees to walking on ground
 Foramen magnum can judge how bipedal smth is (hole in the skull, the more center, the more bipedal)
 Inline big toe
 Different pelvis & femur
-Knees more parallel
+Knees angle inward from the pelvis
 ## Why? 
 * Efficient walking over long distances
 * Reaching for food

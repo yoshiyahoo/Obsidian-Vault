@@ -39,7 +39,7 @@ Ex: Find the mean of the frequency distribution and the modal class below.
 | 14 - 17 | 1 |
 | 19 - 22 | 12 | 
 
-* First, recall the class midpoint formula. Find class midpoint for each [[Stats_chapter_two]]
+* First, recall the class midpoint formula. Find class midpoint for each [[Frequency Distribution Tables & Plots]]
 
 1. 4 - 7: $\frac{4 + 7}{2} = 5.5$
 2. 9 - 12: $\frac{9 + 12}{2} = 10.5$

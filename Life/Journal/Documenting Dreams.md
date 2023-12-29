@@ -1,14 +1,31 @@
 # Dreams
-The crossed line means I've given up on those dreams
+If it's crossed off, it means I've given up on those dreams
 
-- [ ] Be a Trumpet Player
-- [ ] Be an Astronaut 
+- [ ] Be a Good Trumpet Player
+- [ ] ~~Be an Astronaut 
 - [ ] Be a Computer Scientist
 - [ ] ~~Become The President of the United States~~
-- [ ] Become a Youtuber
-- [ ] Become a Celebrity
-- [ ] Become a Rich man
-- [ ] Get Super Strong
+- [ ] ~~Become a Youtuber
+- [ ] ~~Become a Teacher
+- [ ] ~~Become a Celebrity
+- [ ] ~~Become a Rich man
+- [ ] ~~Get Super Strong
 - [ ] Get Super in shape
-- [ ] Become a god tier fighter
-- [ ] 
+- [ ] Get in Shape
+- [ ] ~~Become a god tier fighter
+- [ ] ~~Become a god tier gamer
+- [ ] ~~Become a god tier programmer
+- [ ] Become a good programmer
+- [ ] ~~Be the first man on mars
+- [ ] Become an astronomer
+- [ ] ~~Become the best at something
+- [ ] ~~Be a successful businessman
+- [ ] Have a good and healthy life
+- [ ] ~~Find the sexiest person on the planet
+- [ ] ~~Be extremely attractive
+- [ ] Keep a journal
+- [ ] ~~Have a ton of money
+- [ ] Be someone I can love
+- [ ] ~~Be a good dancer
+- [ ] ~~Be a god chess player
+- [ ] ~~Date super sexy girl
